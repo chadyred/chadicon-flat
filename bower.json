@@ -1,16 +1,12 @@
 {
   "name": "chadicon-flat",
   "description": "chadicon-flat",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/chadyred/chadicon-flat",
   "license": "MIT",
   "private": false,
   "main" : [
-    "flaticon.css",
-    "Flaticon.eot",  
-    "Flaticon.svg", 
-    "Flaticon.ttf",  
-    "Flaticon.woff"
+    "dist/flaticon.css"
   ],
   "repository": {
     "type": "git",
